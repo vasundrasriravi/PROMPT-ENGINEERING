@@ -33,4 +33,22 @@ Transformers are the backbone of most modern generative AI models like GPT, BERT
 
 Other important generative architectures include GANs, VAEs, and Diffusion Models. GANs use a generator and discriminator to produce highly realistic images, often used in art and media. VAEs work by encoding input into a latent space and decoding it back, allowing controlled content generation. Diffusion Models are newer and start with random noise, refining it step-by-step to generate high-quality images and are used in tools like Stable Diffusion and DALL·E 2.
 
+# Generative AI applications.
+### 1. Text Generation
+Used in chatbots, virtual assistants, email writing, story generation, and summarization (e.g., ChatGPT, Grammarly).
+
+### 2. Code Generation
+Helps developers by generating code snippets, fixing bugs, and completing code (e.g., GitHub Copilot, CodeWhisperer).
+
+### 3. Image Generation
+Creates realistic or artistic images from text prompts (e.g., DALL·E, Midjourney, Stable Diffusion).
+
+### 4. Audio & Music Creation
+Generates music, voiceovers, and sound effects (e.g., AIVA, Jukebox, Voicemod).
+
+### 5. Video Generation & Editing
+Enables AI-powered video creation and editing from text or minimal input (e.g., Runway ML, Sora).
+
+### 6. Healthcare & Science
+Used for generating synthetic medical data, drug discovery, and enhancing medical images.
 # Result
