@@ -7,7 +7,7 @@ Develop a comprehensive report for the following exercises:
 4.	Generative AI impact of scaling in LLMs.
 
 # Output
-# Foundational concepts of Generative AI.
+# 1. Foundational concepts of Generative AI.
 Generative AI refers to a class of artificial intelligence models designed to create new content, such as text, images, music, video, and code. Instead of just analyzing or classifying data, generative AI generates data that mimics human-created content. Here are the foundational concepts behind Generative AI:
 
 ### 1. Generative Models
@@ -26,14 +26,14 @@ Users guide generation using prompts (e.g., a sentence or question) to get relev
 ### 6. Pretraining and Fine-Tuning
 Models are first trained on broad data (pretraining), then refined for specific tasks (fine-tuning).
 
-#  Generative AI architectures.
+# 2. Generative AI architectures.
 Transformers are the backbone of most modern generative AI models like GPT, BERT, and ChatGPT. They use a self-attention mechanism to understand relationships in sequences, making them ideal for generating text, code, and even images. Transformers come in different forms: encoder-only (for understanding), decoder-only (for generating), and encoder-decoder (for tasks like translation). Their scalability and effectiveness make them the dominant architecture in the field.
 
 ![Architecture](https://github.com/user-attachments/assets/f6bbddac-3f81-417d-9d1e-17be41eed04a)
 
 Other important generative architectures include GANs, VAEs, and Diffusion Models. GANs use a generator and discriminator to produce highly realistic images, often used in art and media. VAEs work by encoding input into a latent space and decoding it back, allowing controlled content generation. Diffusion Models are newer and start with random noise, refining it step-by-step to generate high-quality images and are used in tools like Stable Diffusion and DALL·E 2.
 
-# Generative AI applications.
+# 3. Generative AI applications.
 ### 1. Text Generation
 Used in chatbots, virtual assistants, email writing, story generation, and summarization (e.g., ChatGPT, Grammarly).
 
@@ -52,7 +52,7 @@ Enables AI-powered video creation and editing from text or minimal input (e.g., 
 ### 6. Healthcare & Science
 Used for generating synthetic medical data, drug discovery, and enhancing medical images.
 
-# Generative AI impact of scaling in LLMs.
+# 4. Generative AI impact of scaling in LLMs.
 ### 1. Capabilities and Benefits of Scaling
 As Large Language Models (LLMs) increase in size, with more parameters and larger datasets, their performance in language understanding and generation improves significantly. This enables powerful features like few-shot and zero-shot learning, where the model can perform tasks with little or no training examples. Scaling also allows LLMs to handle multiple data types (text, images, etc.) and generalize across various tasks like translation, summarization, and coding within a single model.
 
